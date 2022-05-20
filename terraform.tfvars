@@ -1,0 +1,6 @@
+sku               = "Standard"
+pub_ip11          = "pub_ip2"
+nsgname           = "devopsnsg"
+rulename          = "RDP"
+allocation_method = "Dynamic"
+vm2name           = "devopsvm2"
